@@ -2,7 +2,8 @@
 
 - Programming Languages: Python, JavaScript, Java
 - Frameworks: HTML, CSS, JS, Flask
-- Database: PostgreSQL, MySQL
+- Database skills: MySQL, SQL
+- Cloud:: AWS
 - Tools: Git, GitHub
 - Skills : Machine Learning, Deep Learning, NLP, LLMs, DataScraping
 
