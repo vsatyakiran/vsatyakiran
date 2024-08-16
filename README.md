@@ -6,7 +6,7 @@ Currently looking for job in Data Science field to apply my skills in the real w
 
 # Experience
 
-### Intern at HoH Stary-up
+### Intern at HoH Start-up
 I worked as a intern at **HoH e-commerce start-up** company for 2 months, In that two months I built two application for the company. 
 - One application uses RAG model to created SEO friendly blogs to highlight and increase the companies brand visibilty.
 - Other was a DataPipe line that cleans, organizes, stores and vizualizes the e-commerces orders.
@@ -22,12 +22,13 @@ Also worked as a **RAG model developer intern at Scora Labs** for 1 month, where
 
 # SKILLS
 
+- **ML Skills:** Machine Learning, Deep Learning, NLP, LLMs, DataScraping, MLOPs(Learning).
 - **Programming Languages:** Python, JavaScript, Java
 - **FrontEnd & Frameworks:** HTML, CSS, JS, Flask
 - **Database skills:** MySQL, SQL, PostgreSQL
 - **Cloud:** AWS
 - **Tools:** Git, GitHub, Linux
-- **Skills:** Machine Learning, Deep Learning, NLP, LLMs, DataScraping, MLOPs(Learning).
+
 
 # Interests
 - Blogging
