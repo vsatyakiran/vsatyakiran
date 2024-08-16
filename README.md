@@ -2,7 +2,7 @@
 
 My name is Satya Kiran , I am very passionated about machine learning , deep learning and LLMs. Currently I am a student at Gayatri Vidya Parishad College of Engineering(Visakhapatnam). With passion on ML I became AI&ML lead member at GDSC organization , I learned the working principles of LLMs, Transformers. 
 
-Currently looking for job in Data Science field to apply my skills in the real world problems. Share my profile in case you like my work , it will help me to get job in my intrested domain Data Science domain.
+Currently looking for job in Data Science field to apply my skills in the real world problems. Share my profile in case you like my work , it will help me to get job in my intrested domain Data Science.
 
 # Experience
 
