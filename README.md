@@ -13,7 +13,7 @@ I worked as a intern at **HoH e-commerce start-up** company for 2 months, In tha
 
 ### Intern at Scora Labs
 
-Also worked as a **RAG model developer intern at Scora Labs** for 1 month, where I developed RAG model that performs similarity search from MongoDB vectorDB and uses that content as context to generate the **Topic tags and Difficuly level** of questions in online-examination platforms. This reduced burden of manual tagging the topic to each question. 
+Also worked as a **RAG model developer intern at Scora Labs** for 1 month, where I developed RAG model that performs similarity search from MongoDB vectorDB and uses that content as context to generate the **Topic tags and Difficuly level** of questions in online-examination platforms. This reduced burden of manual tagging of each question. 
 
 # Projects
 
