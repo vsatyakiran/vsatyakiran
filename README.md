@@ -2,7 +2,7 @@
 
 My name is Satya Kiran , I am very passionated about machine learning , deep learning and LLMs. Currently I am a student at Gayatri Vidya Parishad College of Engineering(Visakhapatnam). With passion on ML I became AI&ML lead member at GDSC organization , I learned the working principles of LLMs, Transformers. 
 
-Currently looking for job in Data Science field to apply my skills in the real world problems. Share my profile in case you like my work , it will help me to get job in my intrested domain Data Science.
+Currently looking for job in Data Science related field to apply my skills in the real world problems. [Connect](https://www.linkedin.com/in/vantakula-satya-kiran-165536251/) with me if you like my work.
 
 # Experience
 
@@ -42,6 +42,7 @@ Also worked as a **RAG model developer intern at Scora Labs** for 1 month, where
 
 - [Linkedin](https://www.nhm.ac.uk/%29)
 - [Twitter](https://x.com/SatyaVantakula)
+- vantakulasatyakiran@gmail.com
 - [Portfolio](https://www.datascienceportfol.io/satyakiran)
 - [Resume](https://drive.google.com/file/d/1_KfPp_LHDCItaV2dB2AQd-LMmB4b925S/view?usp=sharing)
 
