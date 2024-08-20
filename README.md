@@ -44,7 +44,6 @@ Also worked as a **RAG model developer intern at Scora Labs** for 1 month, where
 - [Twitter](https://x.com/SatyaVantakula)
 - vantakulasatyakiran@gmail.com
 - [Portfolio](https://www.datascienceportfol.io/satyakiran)
-- [Resume](https://drive.google.com/file/d/1_KfPp_LHDCItaV2dB2AQd-LMmB4b925S/view?usp=sharing)
 
 
 
