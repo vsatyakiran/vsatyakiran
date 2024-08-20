@@ -9,7 +9,7 @@ Currently looking for job in Data Science related field to apply my skills in th
 ### Intern at HoH Start-up
 I worked as a intern at **HoH e-commerce start-up** company for 2 months, In that two months I built two application for the company. 
 - One application uses RAG model to created SEO friendly blogs to highlight and increase the companies brand visibilty.
-- Other was a DataPipe line that cleans, organizes, stores and vizualizes the e-commerces orders.
+- Other was a DataPipe line that cleans, organizes, stores and vizualizes the e-commerces orders in **AWS**.
 
 ### Intern at Scora Labs
 
